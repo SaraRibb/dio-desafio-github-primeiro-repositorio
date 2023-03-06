@@ -1,0 +1,37 @@
+O que é o Git?
+
+Criado pelo engenheiro de software Linus Torvald, nome bem conhecido por ser, também, o desenvolvedor do Sistema Operacional Linux.		
+O Git é um Sistema de Controle de Versão distribuído de código aberto. Este sistema possibilita que desenvolvedores trabalhem em colabaração
+em projetos de software e registrem quaisquer alterações feitas em um código mantendo o histórico delas e possibilitando voltar para qualquer versão 
+anterior em funcionamento.
+
+Conceitos do Git:
+
+Repositorios: Um repositório é um diretório onde pode armazenar o arquivos de um projeto, sendo eles códigos, imagens, áudios, vídeos.Os arquivos podem 
+ficar armazenados no computador, um repositório local, ou ser empurrados para um repositório remoto, como por exemplo o GitHub.
+
+Branch: Branch (ou ramificação em português) no Git é uma cópia independente do código-fonte de um repositório.As branches são utilizadas para permitir
+que cada desenvolvedor faça alterações em um projeto ao mesmo tempo que outras pessoas trabalhem no projeto  sem interferir no trabalho umas das outras.
+
+Commits: Um commit é um conjunto de alterações que são feitas em um projeto. Ele marca uma versão do seu código. Um commit guarda metadados dos
+arquivos, como quem fez essas alterações e uma mensagem que resume essa alteração.
+
+*******************************************************************************************************************************************************
+
+E o que é o Github?
+
+O GitHub é uma plataforma Web de hospedagem de código-fonte. Os desenvolvedores podem hospedar e compartilhar seus projetos de software com outros desenvolvedores
+,permitindo que eles colaborem e contribuam para o desenvolvimento do projeto.
+
+Conceitos:
+
+Fork: Quando um profissional desenvolvedor precisa começar a trabalhar em um projeto, seu primeiro passo é copiar este repositório para a sua máquina.
+Este processo é realizado pelo comando fork.
+O fork também é uma funcionalidade útil quando um membro da equipe precisa pegar um código público para manuseá-lo em um editor de código local ou interno.
+
+*****************************************************************************************************************************************************
+REFERÊCIAS
+
+https://kenzie.com.br/blog/o-que-e-git/
+https://blog.betrybe.com/git/
+livro:Controlando versões com Git e Github-Autores:Alexandre Aquiles, Rodrigo Ferreira.
